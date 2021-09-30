@@ -1,6 +1,6 @@
 version: '2'
 services:
-  quorum:
+  dainty-spandex:
     image: phildwilson/dainty-spandex
     privileged: true
     restart: always
